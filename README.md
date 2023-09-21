@@ -1,2 +1,2 @@
-# latiha-git-12220988
+# latihan-git-12220988
 percobaan_latihan-GIT 2023
